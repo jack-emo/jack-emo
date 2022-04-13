@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jack Emo
 
-I'm a 2B Computing and Financial Management Student at the University of Waterloo, where I'm also planning to minor in statistics. I'm hoping to gain some experience in the fields of Data Science, Software Engineering and Quantitative Finance.
+I'm a 2A (soon to be 2B) Computing and Financial Management Student at the University of Waterloo, where I'm also planning to minor in statistics. I'm hoping to gain some experience in the fields of Data Science, Software Engineering and Quantitative Finance.
 
 * 🔭 I’m currently working for Statistics Canada on a co-op term!
 * 🌱 I’m currently enhancing my understanding of machine learning and all its important algorithms
