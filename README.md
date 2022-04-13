@@ -3,7 +3,7 @@
 I'm a 2A (soon to be 2B) Computing and Financial Management Student at the University of Waterloo, where I'm also planning to minor in statistics. I'm hoping to gain some experience in the fields of Data Science, Software Engineering and Quantitative Finance.
 
 * 🔭 I’m currently working for Statistics Canada on a co-op term!
-* 🌱 I’m currently enhancing my understanding of machine learning and all its important algorithms
+* 🌱 In my spare time, I'm brushing up on my understanding of machine learning and all its important algorithms.
 * 🤔 I’m looking for a Fall 2022 co-op relating to Data Science, Software Engineering or Quantitative Finance.
 * 📫 How to reach me: jemo@uwaterloo.ca or My LinkedIn: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) ](https://www.linkedin.com/in/jack-emo-ab03561b0/)
 * ⚡️ Fun fact: I've solved a Rubik's Cube in under 10 seconds!
