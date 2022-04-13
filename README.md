@@ -4,7 +4,7 @@ I'm a 2A (soon to be 2B) Computing and Financial Management Student at the Unive
 
 Proficient with Python, R, C++ and C. 
 Comfortable with LaTeX, NumPy, sklearn, MatPlotlib, Pandas, TensorFlow, PyTorch and OpenCV. 
-Familiar with Swift, HTML, CSS, JavaScript and SQL.
+Familiar/Basic Knowledge with Swift, HTML, CSS, JavaScript and SQL.
 
 * 🔭 I’m currently working for Statistics Canada on a co-op term!
 * 🌱 In my spare time, I'm brushing up on my understanding of machine learning and all its important algorithms.
