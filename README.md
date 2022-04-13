@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Jack Emo
 
-### My name is Jack
-I'm a 2B Computing and Financial Management Student at the University of Waterloo, where I'm also planning to minor in statistics.
-[![jack-emo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-emo)](https://github.com/jack-emo/github-readme-stats)
+I'm a 2B Computing and Financial Management Student at the University of Waterloo, where I'm also planning to minor in statistics. I'm hoping to gain some experience in the fields of Data Science, Software Engineering and Quantitative Finance.
+
+* 🔭 I’m currently working for Statistics Canada on a co-op term!
+* 🌱 I’m currently enhancing my understanding of important machine learning algorithms (at the moment the random forest model)!
+* 📫 How to reach me: jemo@uwaterloo.ca or Linkedin: Jack Emo
 <!--
 **jack-emo/jack-emo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
