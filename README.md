@@ -2,10 +2,6 @@
 
 I'm a 2A (soon to be 2B) Computing and Financial Management Student at the University of Waterloo, where I'm also planning to minor in statistics. I'm hoping to gain some experience in the fields of Data Science, Software Engineering and/or Quantitative Finance.
 
-Proficient with Python, R, C++ and C. 
-Comfortable with LaTeX, NumPy, Scikit-learn, MatPlotlib, Pandas, TensorFlow, PyTorch and OpenCV. 
-Familiar/Basic Knowledge with Swift, HTML, CSS, JavaScript and SQL.
-
 * 🔭 I’m currently working for Statistics Canada on a co-op term!
 * 🌱 In my spare time, I'm brushing up on my understanding of machine learning and all its important algorithms.
 * 🤔 I’m looking for a Fall 2022 co-op relating to Data Science, Software Engineering and/or Quantitative Finance.
