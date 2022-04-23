@@ -2,8 +2,9 @@
 
 I'm a 2A (soon to be 2B) Computing and Financial Management Student at the University of Waterloo, where I'm also planning to minor in statistics. I'm hoping to gain some experience in the fields of Data Science, Software Engineering and/or Quantitative Finance.
 
-* 📫 How to reach me: jemo@uwaterloo.ca or My LinkedIn: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) ](https://www.linkedin.com/in/jack-emo-ab03561b0/)
-* ⚡️ Fun fact: I've solved a Rubik's Cube in under 10 seconds!
+Ways you can reach me:
+* jemo@uwaterloo.ca 
+* LinkedIn: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) ](https://www.linkedin.com/in/jack-emo-ab03561b0/)
 <!--
 **jack-emo/jack-emo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
