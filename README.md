@@ -2,7 +2,7 @@
 
 I'm a 2A (soon to be 2B) Computing and Financial Management Student at the University of Waterloo, where I'm also planning to minor in statistics. I'm hoping to gain some experience in the fields of Data Science, Software Engineering and/or Quantitative Finance.
 
-Ways you can reach me:
+Here are some ways you can reach me:
 * jemo@uwaterloo.ca 
 * LinkedIn: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) ](https://www.linkedin.com/in/jack-emo-ab03561b0/)
 <!--
