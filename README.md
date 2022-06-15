@@ -1,6 +1,6 @@
 ### Hi there, I'm Jack 👋
 
-I'm a 2B Computing and Financial Management Student at the University of Waterloo, where I'm also planning to minor in statistics. I'm hoping to gain some experience in the fields of Data Science, Software Engineering and/or Quantitative Finance.
+I'm a 2B Computing and Financial Management Student at the University of Waterloo, where I'm also planning to minor in statistics. I'm hoping to gain some experience in the fields of Data Science, Software Engineering and/or Quantitative Finance. I'm also currently seeking Summer 2023 opportunities!
 
 Here are some ways you can reach me:
 * jemo@uwaterloo.ca 
