@@ -1,6 +1,6 @@
 ### Hi there, I'm Jack 👋
 
-I'm a 3A Computing and Financial Management (Computer Science + Finance) Student at the University of Waterloo. I'm hoping to gain some experience in the fields of Software Engineering, Product Management and/or Quantitative Finance.
+I'm a 4A Computing and Financial Management (Computer Science + Finance) Student at the University of Waterloo minoring in Statistics as well. I'm hoping to gain some experience in the fields of Software Engineering, Product Management and/or Quantitative Finance.
 
 Here are some ways you can reach me:
 * jemo@uwaterloo.ca 
