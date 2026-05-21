@@ -1,6 +1,6 @@
 ### Hi there, I'm Jack 👋
 
-I'm a CFM + Stats Alumni from the University of Waterloo.
+I'm an incoming MMA Student at UofT/Rotman.
 
 Here are some ways you can reach me:
 * jemo@uwaterloo.ca 
