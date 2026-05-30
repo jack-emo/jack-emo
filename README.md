@@ -3,7 +3,8 @@
 I'm an incoming MMA Student at UofT/Rotman.
 
 Here are some ways you can reach me:
-* jemo@uwaterloo.ca 
+* jemo@uwaterloo.ca
+* jack.emo@mail.utoronto.ca
 * LinkedIn: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) ](https://www.linkedin.com/in/jack-emo-ab03561b0/)
 <!--
 **jack-emo/jack-emo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
